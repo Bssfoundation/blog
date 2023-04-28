@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "BSS Application suit (Bapps)"
+date:   2023-04-28 18:29:07 +0330
+categories: Bapps
+---
+Hello to all
+We are proud to announce that soon we will start working on the development of the BSS software package.
+This package, also known as Bapps, has the following items:
+
+- Applications such as clock, text editor, calculator
+- Browsers and email clients
+- File manager
+- Other programs in different categories
+
+More information will be available to you soon.
+
+Bss Free Software Foundation development team
