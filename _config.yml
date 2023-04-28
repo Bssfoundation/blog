@@ -26,7 +26,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://bssinc.ir" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bssfoss
 github_username:  bssfoundation
-telegram_username:  bssinc
+instagram_username:  bssfoss
 
 # Build settings
 theme: minima
