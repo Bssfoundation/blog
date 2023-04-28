@@ -21,11 +21,12 @@
 title: ‌Bss Foundation Blog
 email: Bssopenfound@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Bss foundation blog
+  Blog of Bss Opensource Foundation
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://bssinc.ir" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bssfoss
 github_username:  bssfoundation
+telegram_username:  bssinc
 
 # Build settings
 theme: minima
