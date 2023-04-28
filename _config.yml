@@ -27,6 +27,7 @@ url: "https://bssinc.ir" # the base hostname & protocol for your site, e.g. http
 twitter_username: bssfoss
 github_username:  bssfoundation
 instagram_username:  bssfoss
+telegram: bssinc
 
 # Build settings
 theme: minima
